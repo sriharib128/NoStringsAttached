@@ -14,7 +14,6 @@ A project focused on mitigating gender bias in knowledge graph embeddings using 
 2. [Features](#features)  
 3. [Installation](#installation)  
 4. [Usage](#usage)  
-5. [Results](#results)  
 6. [File Structure](#file-structure)  
 7. [Contributing](#contributing)  
 8. [License](#license)  
@@ -101,19 +100,7 @@ Generates:
 - `final_bias_scores_no_debiasing.json`: Pre-debiasing scores.  
 - Interactive bar plots comparing bias scores.  
 
----  
-
-## 📊 Results  
-**Example Output:**  
-```  
-Overall Average Debiased Score: 0.042  
-Overall Average Biased Score: 0.157  
-```  
-
-**Bias Score Comparison:**  
-![Bias Score Comparison](example_plot.png)  
-
----  
+---    
 
 ## 📂 File Structure  
 ```  
